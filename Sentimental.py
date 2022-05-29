@@ -32,3 +32,5 @@ elif liauIndex < 1:
     print("Before Grade 1")
 else:
     print(f"Grade {liauIndex}")
+    
+    
